@@ -1,0 +1,124 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.2300000000000182 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Phone" 
+        xmin = 0 
+        xmax = 1.2300000000000182 
+        intervals: size = 21 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.15899999999987813 
+            text = "K" 
+        intervals [2]:
+            xmin = 0.15899999999987813 
+            xmax = 0.2599999999999909 
+            text = "AO1" 
+        intervals [3]:
+            xmin = 0.2599999999999909 
+            xmax = 0.2899999999999636 
+            text = "R" 
+        intervals [4]:
+            xmin = 0.2899999999999636 
+            xmax = 0.31999999999993634 
+            text = "T" 
+        intervals [5]:
+            xmin = 0.31999999999993634 
+            xmax = 0.34999999999990905 
+            text = "ER0" 
+        intervals [6]:
+            xmin = 0.34999999999990905 
+            xmax = 0.3789999999999054 
+            text = "AH0" 
+        intervals [7]:
+            xmin = 0.3789999999999054 
+            xmax = 0.4089999999998781 
+            text = "V" 
+        intervals [8]:
+            xmin = 0.4089999999998781 
+            xmax = 0.4900000000000091 
+            text = "S" 
+        intervals [9]:
+            xmin = 0.4900000000000091 
+            xmax = 0.5399999999999636 
+            text = "P" 
+        intervals [10]:
+            xmin = 0.5399999999999636 
+            xmax = 0.6199999999998909 
+            text = "EH1" 
+        intervals [11]:
+            xmin = 0.6199999999998909 
+            xmax = 0.6589999999998781 
+            text = "N" 
+        intervals [12]:
+            xmin = 0.6589999999998781 
+            xmax = 0.6900000000000546 
+            text = "D" 
+        intervals [13]:
+            xmin = 0.6900000000000546 
+            xmax = 0.7300000000000182 
+            text = "AH0" 
+        intervals [14]:
+            xmin = 0.7300000000000182 
+            xmax = 0.8199999999999363 
+            text = "N" 
+        intervals [15]:
+            xmin = 0.8199999999999363 
+            xmax = 0.8899999999998727 
+            text = "M" 
+        intervals [16]:
+            xmin = 0.8899999999998727 
+            xmax = 0.9300000000000637 
+            text = "AH1" 
+        intervals [17]:
+            xmin = 0.9300000000000637 
+            xmax = 1.009999999999991 
+            text = "N" 
+        intervals [18]:
+            xmin = 1.009999999999991 
+            xmax = 1.0799999999999272 
+            text = "IY0" 
+        intervals [19]:
+            xmin = 1.0799999999999272 
+            xmax = 1.1499999999998636 
+            text = "W" 
+        intervals [20]:
+            xmin = 1.1499999999998636 
+            xmax = 1.1800000000000637 
+            text = "EH1" 
+        intervals [21]:
+            xmin = 1.1800000000000637 
+            xmax = 1.2300000000000182 
+            text = "N" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Word" 
+        xmin = 0 
+        xmax = 1.2300000000000182 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.34999999999990905 
+            text = "QUARTER" 
+        intervals [2]:
+            xmin = 0.34999999999990905 
+            xmax = 0.4089999999998781 
+            text = "OF" 
+        intervals [3]:
+            xmin = 0.4089999999998781 
+            xmax = 0.8199999999999363 
+            text = "SPENDIN'" 
+        intervals [4]:
+            xmin = 0.8199999999999363 
+            xmax = 1.0799999999999272 
+            text = "MONEY" 
+        intervals [5]:
+            xmin = 1.0799999999999272 
+            xmax = 1.2300000000000182 
+            text = "WHEN" 

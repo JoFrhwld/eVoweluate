@@ -1,0 +1,116 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.209999999999809 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Phone" 
+        xmin = 0 
+        xmax = 1.209999999999809 
+        intervals: size = 19 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.05899999999996908 
+            text = "T" 
+        intervals [2]:
+            xmin = 0.05899999999996908 
+            xmax = 0.12999999999988177 
+            text = "W" 
+        intervals [3]:
+            xmin = 0.12999999999988177 
+            xmax = 0.15899999999987813 
+            text = "EH1" 
+        intervals [4]:
+            xmin = 0.15899999999987813 
+            xmax = 0.1899999999998272 
+            text = "N" 
+        intervals [5]:
+            xmin = 0.1899999999998272 
+            xmax = 0.2699999999999818 
+            text = "IY0" 
+        intervals [6]:
+            xmin = 0.2699999999999818 
+            xmax = 0.3289999999999509 
+            text = "P" 
+        intervals [7]:
+            xmin = 0.3289999999999509 
+            xmax = 0.4699999999997999 
+            text = "AW1" 
+        intervals [8]:
+            xmin = 0.4699999999997999 
+            xmax = 0.5 
+            text = "N" 
+        intervals [9]:
+            xmin = 0.5 
+            xmax = 0.5699999999999363 
+            text = "Z" 
+        intervals [10]:
+            xmin = 0.5699999999999363 
+            xmax = 0.6799999999998363 
+            text = "OW2" 
+        intervals [11]:
+            xmin = 0.6799999999998363 
+            xmax = 0.709999999999809 
+            text = "V" 
+        intervals [12]:
+            xmin = 0.709999999999809 
+            xmax = 0.7400000000000091 
+            text = "ER0" 
+        intervals [13]:
+            xmin = 0.7400000000000091 
+            xmax = 0.8799999999998818 
+            text = "W" 
+        intervals [14]:
+            xmin = 0.8799999999998818 
+            xmax = 0.9099999999998545 
+            text = "EY1" 
+        intervals [15]:
+            xmin = 0.9099999999998545 
+            xmax = 0.959999999999809 
+            text = "T" 
+        intervals [16]:
+            xmin = 0.959999999999809 
+            xmax = 1.0499999999999545 
+            text = "DH" 
+        intervals [17]:
+            xmin = 1.0499999999999545 
+            xmax = 1.0789999999999509 
+            text = "AH0" 
+        intervals [18]:
+            xmin = 1.0789999999999509 
+            xmax = 1.1899999999998272 
+            text = "S" 
+        intervals [19]:
+            xmin = 1.1899999999998272 
+            xmax = 1.209999999999809 
+            text = "sp" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Word" 
+        xmin = 0 
+        xmax = 1.209999999999809 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.2699999999999818 
+            text = "TWENTY" 
+        intervals [2]:
+            xmin = 0.2699999999999818 
+            xmax = 0.5699999999999363 
+            text = "POUNDS" 
+        intervals [3]:
+            xmin = 0.5699999999999363 
+            xmax = 0.959999999999809 
+            text = "OVERWEIGHT" 
+        intervals [4]:
+            xmin = 0.959999999999809 
+            xmax = 1.1899999999998272 
+            text = "THIS" 
+        intervals [5]:
+            xmin = 1.1899999999998272 
+            xmax = 1.209999999999809 
+            text = "sp" 

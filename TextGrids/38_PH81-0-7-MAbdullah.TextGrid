@@ -1,0 +1,24 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.000000
+xmax = 1.571000
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "Null"
+		xmin = 0.000000
+		xmax = 0.000000
+		intervals: size = 0
+	item [2]:
+		class = "IntervalTier"
+		name = "Phrase"
+		xmin = 0.000000
+		xmax = 1.571000
+		intervals: size = 1
+			intervals [1]:
+				xmin = 0.000000
+				xmax = 1.571000
+				text = "WILLIAM B HANNAH sp sp"

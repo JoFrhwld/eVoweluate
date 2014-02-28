@@ -1,0 +1,96 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.000000
+xmax = 1.520000
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "Phone"
+		xmin = 0.000000
+		xmax = 1.520000
+		intervals: size = 14
+			intervals [1]:
+				xmin = 0.000000
+				xmax = 0.060000
+				text = "HH"
+			intervals [2]:
+				xmin = 0.060000
+				xmax = 0.160000
+				text = "IY1"
+			intervals [3]:
+				xmin = 0.160000
+				xmax = 0.230000
+				text = "D"
+			intervals [4]:
+				xmin = 0.230000
+				xmax = 0.330000
+				text = "IY1"
+			intervals [5]:
+				xmin = 0.330000
+				xmax = 0.450000
+				text = "JH"
+			intervals [6]:
+				xmin = 0.450000
+				xmax = 0.600000
+				text = "EY1"
+			intervals [7]:
+				xmin = 0.600000
+				xmax = 0.710000
+				text = "Z"
+			intervals [8]:
+				xmin = 0.710000
+				xmax = 0.780000
+				text = "P"
+			intervals [9]:
+				xmin = 0.780000
+				xmax = 0.850000
+				text = "AA1"
+			intervals [10]:
+				xmin = 0.850000
+				xmax = 0.950000
+				text = "R"
+			intervals [11]:
+				xmin = 0.950000
+				xmax = 0.980000
+				text = "T"
+			intervals [12]:
+				xmin = 0.980000
+				xmax = 1.060000
+				text = "T"
+			intervals [13]:
+				xmin = 1.060000
+				xmax = 1.340000
+				text = "AY1"
+			intervals [14]:
+				xmin = 1.340000
+				xmax = 1.520000
+				text = "M"
+	item [2]:
+		class = "IntervalTier"
+		name = "Word"
+		xmin = 0.000000
+		xmax = 1.520000
+		intervals: size = 5
+			intervals [1]:
+				xmin = 0.000000
+				xmax = 0.160000
+				text = "HE"
+			intervals [2]:
+				xmin = 0.160000
+				xmax = 0.330000
+				text = "D"
+			intervals [3]:
+				xmin = 0.330000
+				xmax = 0.710000
+				text = "J'S"
+			intervals [4]:
+				xmin = 0.710000
+				xmax = 0.980000
+				text = "PART"
+			intervals [5]:
+				xmin = 0.980000
+				xmax = 1.520000
+				text = "TIME"

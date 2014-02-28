@@ -1,0 +1,108 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.000000
+xmax = 0.980000
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "Phone"
+		xmin = 0.000000
+		xmax = 0.980000
+		intervals: size = 17
+			intervals [1]:
+				xmin = 0.000000
+				xmax = 0.030000
+				text = "EH1"
+			intervals [2]:
+				xmin = 0.030000
+				xmax = 0.070000
+				text = "N"
+			intervals [3]:
+				xmin = 0.070000
+				xmax = 0.090000
+				text = "D"
+			intervals [4]:
+				xmin = 0.090000
+				xmax = 0.130000
+				text = "AH0"
+			intervals [5]:
+				xmin = 0.130000
+				xmax = 0.160000
+				text = "D"
+			intervals [6]:
+				xmin = 0.160000
+				xmax = 0.230000
+				text = "AH1"
+			intervals [7]:
+				xmin = 0.230000
+				xmax = 0.340000
+				text = "P"
+			intervals [8]:
+				xmin = 0.340000
+				xmax = 0.399000
+				text = "L"
+			intervals [9]:
+				xmin = 0.399000
+				xmax = 0.490000
+				text = "AA1"
+			intervals [10]:
+				xmin = 0.490000
+				xmax = 0.590000
+				text = "K"
+			intervals [11]:
+				xmin = 0.590000
+				xmax = 0.620000
+				text = "AH0"
+			intervals [12]:
+				xmin = 0.620000
+				xmax = 0.690000
+				text = "N"
+			intervals [13]:
+				xmin = 0.690000
+				xmax = 0.730000
+				text = "AH1"
+			intervals [14]:
+				xmin = 0.730000
+				xmax = 0.839000
+				text = "P"
+			intervals [15]:
+				xmin = 0.839000
+				xmax = 0.900000
+				text = "L"
+			intervals [16]:
+				xmin = 0.900000
+				xmax = 0.930000
+				text = "AY1"
+			intervals [17]:
+				xmin = 0.930000
+				xmax = 0.980000
+				text = "K"
+	item [2]:
+		class = "IntervalTier"
+		name = "Word"
+		xmin = 0.000000
+		xmax = 0.980000
+		intervals: size = 5
+			intervals [1]:
+				xmin = 0.000000
+				xmax = 0.160000
+				text = "ENDED"
+			intervals [2]:
+				xmin = 0.160000
+				xmax = 0.340000
+				text = "UP"
+			intervals [3]:
+				xmin = 0.340000
+				xmax = 0.690000
+				text = "LOCKING"
+			intervals [4]:
+				xmin = 0.690000
+				xmax = 0.839000
+				text = "UP"
+			intervals [5]:
+				xmin = 0.839000
+				xmax = 0.980000
+				text = "LIKE"

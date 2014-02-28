@@ -1,0 +1,116 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.000000
+xmax = 4.810000
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "Phone"
+		xmin = 0.000000
+		xmax = 4.810000
+		intervals: size = 19
+			intervals [1]:
+				xmin = 0.000000
+				xmax = 3.880000
+				text = "sp"
+			intervals [2]:
+				xmin = 3.880000
+				xmax = 3.950000
+				text = "sp"
+			intervals [3]:
+				xmin = 3.950000
+				xmax = 4.100000
+				text = "SH"
+			intervals [4]:
+				xmin = 4.100000
+				xmax = 4.160000
+				text = "UH1"
+			intervals [5]:
+				xmin = 4.160000
+				xmax = 4.250000
+				text = "D"
+			intervals [6]:
+				xmin = 4.250000
+				xmax = 4.280000
+				text = "IH0"
+			intervals [7]:
+				xmin = 4.280000
+				xmax = 4.310000
+				text = "N"
+			intervals [8]:
+				xmin = 4.310000
+				xmax = 4.410000
+				text = "T"
+			intervals [9]:
+				xmin = 4.410000
+				xmax = 4.440000
+				text = "AH0"
+			intervals [10]:
+				xmin = 4.440000
+				xmax = 4.469000
+				text = "V"
+			intervals [11]:
+				xmin = 4.469000
+				xmax = 4.550000
+				text = "SH"
+			intervals [12]:
+				xmin = 4.550000
+				xmax = 4.589000
+				text = "UH1"
+			intervals [13]:
+				xmin = 4.589000
+				xmax = 4.609000
+				text = "D"
+			intervals [14]:
+				xmin = 4.609000
+				xmax = 4.640000
+				text = "IH0"
+			intervals [15]:
+				xmin = 4.640000
+				xmax = 4.670000
+				text = "N"
+			intervals [16]:
+				xmin = 4.670000
+				xmax = 4.699000
+				text = "T"
+			intervals [17]:
+				xmin = 4.699000
+				xmax = 4.729000
+				text = "AH0"
+			intervals [18]:
+				xmin = 4.729000
+				xmax = 4.790000
+				text = "V"
+			intervals [19]:
+				xmin = 4.790000
+				xmax = 4.810000
+				text = "sp"
+	item [2]:
+		class = "IntervalTier"
+		name = "Word"
+		xmin = 0.000000
+		xmax = 4.810000
+		intervals: size = 5
+			intervals [1]:
+				xmin = 0.000000
+				xmax = 3.880000
+				text = "sp"
+			intervals [2]:
+				xmin = 3.880000
+				xmax = 3.950000
+				text = "sp"
+			intervals [3]:
+				xmin = 3.950000
+				xmax = 4.469000
+				text = "SHOULDN'T'VE"
+			intervals [4]:
+				xmin = 4.469000
+				xmax = 4.790000
+				text = "SHOULDN'T'VE"
+			intervals [5]:
+				xmin = 4.790000
+				xmax = 4.810000
+				text = "sp"

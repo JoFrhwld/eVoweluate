@@ -1,0 +1,104 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.000000
+xmax = 1.500000
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "Phone"
+		xmin = 0.000000
+		xmax = 1.500000
+		intervals: size = 16
+			intervals [1]:
+				xmin = 0.000000
+				xmax = 0.040000
+				text = "AH1"
+			intervals [2]:
+				xmin = 0.040000
+				xmax = 0.200000
+				text = "S"
+			intervals [3]:
+				xmin = 0.200000
+				xmax = 0.310000
+				text = "EY1"
+			intervals [4]:
+				xmin = 0.310000
+				xmax = 0.340000
+				text = "N"
+			intervals [5]:
+				xmin = 0.340000
+				xmax = 0.370000
+				text = "T"
+			intervals [6]:
+				xmin = 0.370000
+				xmax = 0.540000
+				text = "S"
+			intervals [7]:
+				xmin = 0.540000
+				xmax = 0.600000
+				text = "IH1"
+			intervals [8]:
+				xmin = 0.600000
+				xmax = 0.730000
+				text = "P"
+			intervals [9]:
+				xmin = 0.730000
+				xmax = 0.820000
+				text = "IY0"
+			intervals [10]:
+				xmin = 0.820000
+				xmax = 0.860000
+				text = "AH0"
+			intervals [11]:
+				xmin = 0.860000
+				xmax = 0.950000
+				text = "N"
+			intervals [12]:
+				xmin = 0.950000
+				xmax = 1.110000
+				text = "Z"
+			intervals [13]:
+				xmin = 1.110000
+				xmax = 1.140000
+				text = "CH"
+			intervals [14]:
+				xmin = 1.140000
+				xmax = 1.300000
+				text = "ER1"
+			intervals [15]:
+				xmin = 1.300000
+				xmax = 1.380000
+				text = "CH"
+			intervals [16]:
+				xmin = 1.380000
+				xmax = 1.500000
+				text = "sp"
+	item [2]:
+		class = "IntervalTier"
+		name = "Word"
+		xmin = 0.000000
+		xmax = 1.500000
+		intervals: size = 5
+			intervals [1]:
+				xmin = 0.000000
+				xmax = 0.040000
+				text = "UH"
+			intervals [2]:
+				xmin = 0.040000
+				xmax = 0.370000
+				text = "ST"
+			intervals [3]:
+				xmin = 0.370000
+				xmax = 1.110000
+				text = "SIPIAN'S"
+			intervals [4]:
+				xmin = 1.110000
+				xmax = 1.380000
+				text = "CHURCH"
+			intervals [5]:
+				xmin = 1.380000
+				xmax = 1.500000
+				text = "sp"

@@ -1,0 +1,88 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 0.75 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Irwin Walker - phone" 
+        xmin = 0 
+        xmax = 0.75 
+        intervals: size = 12 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.16000000000008185 
+            text = "sp" 
+        intervals [2]:
+            xmin = 0.16000000000008185 
+            xmax = 0.2400000000000091 
+            text = "AE1" 
+        intervals [3]:
+            xmin = 0.2400000000000091 
+            xmax = 0.36000000000012733 
+            text = "N" 
+        intervals [4]:
+            xmin = 0.36000000000012733 
+            xmax = 0.38000000000010914 
+            text = "D" 
+        intervals [5]:
+            xmin = 0.38000000000010914 
+            xmax = 0.5099999999999909 
+            text = "SH" 
+        intervals [6]:
+            xmin = 0.5099999999999909 
+            xmax = 0.5599999999999454 
+            text = "AH1" 
+        intervals [7]:
+            xmin = 0.5599999999999454 
+            xmax = 0.5989999999999327 
+            text = "V" 
+        intervals [8]:
+            xmin = 0.5989999999999327 
+            xmax = 0.6200000000001182 
+            text = "D" 
+        intervals [9]:
+            xmin = 0.6200000000001182 
+            xmax = 0.650000000000091 
+            text = "AH0" 
+        intervals [10]:
+            xmin = 0.650000000000091 
+            xmax = 0.6890000000000782 
+            text = "T" 
+        intervals [11]:
+            xmin = 0.6890000000000782 
+            xmax = 0.7190000000000509 
+            text = "AH0" 
+        intervals [12]:
+            xmin = 0.7190000000000509 
+            xmax = 0.75 
+            text = "N" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Irwin Walker - word" 
+        xmin = 0 
+        xmax = 0.75 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.16000000000008185 
+            text = "sp" 
+        intervals [2]:
+            xmin = 0.16000000000008185 
+            xmax = 0.38000000000010914 
+            text = "AND" 
+        intervals [3]:
+            xmin = 0.38000000000010914 
+            xmax = 0.6200000000001182 
+            text = "SHOVED" 
+        intervals [4]:
+            xmin = 0.6200000000001182 
+            xmax = 0.6890000000000782 
+            text = "IT" 
+        intervals [5]:
+            xmin = 0.6890000000000782 
+            xmax = 0.75 
+            text = "IN" 

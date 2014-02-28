@@ -1,0 +1,88 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.000000
+xmax = 1.690000
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "Phone"
+		xmin = 0.000000
+		xmax = 1.690000
+		intervals: size = 12
+			intervals [1]:
+				xmin = 0.000000
+				xmax = 0.330000
+				text = "AH1"
+			intervals [2]:
+				xmin = 0.330000
+				xmax = 0.530000
+				text = "sp"
+			intervals [3]:
+				xmin = 0.530000
+				xmax = 0.730000
+				text = "R"
+			intervals [4]:
+				xmin = 0.730000
+				xmax = 0.910000
+				text = "OW1"
+			intervals [5]:
+				xmin = 0.910000
+				xmax = 0.950000
+				text = "D"
+			intervals [6]:
+				xmin = 0.950000
+				xmax = 1.110000
+				text = "W"
+			intervals [7]:
+				xmin = 1.110000
+				xmax = 1.330000
+				text = "EY2"
+			intervals [8]:
+				xmin = 1.330000
+				xmax = 1.480000
+				text = "Z"
+			intervals [9]:
+				xmin = 1.480000
+				xmax = 1.540000
+				text = "HH"
+			intervals [10]:
+				xmin = 1.540000
+				xmax = 1.570000
+				text = "AE1"
+			intervals [11]:
+				xmin = 1.570000
+				xmax = 1.630000
+				text = "V"
+			intervals [12]:
+				xmin = 1.630000
+				xmax = 1.690000
+				text = "sp"
+	item [2]:
+		class = "IntervalTier"
+		name = "Word"
+		xmin = 0.000000
+		xmax = 1.690000
+		intervals: size = 5
+			intervals [1]:
+				xmin = 0.000000
+				xmax = 0.330000
+				text = "UH"
+			intervals [2]:
+				xmin = 0.330000
+				xmax = 0.530000
+				text = "sp"
+			intervals [3]:
+				xmin = 0.530000
+				xmax = 1.480000
+				text = "ROADWAYS"
+			intervals [4]:
+				xmin = 1.480000
+				xmax = 1.630000
+				text = "HAVE"
+			intervals [5]:
+				xmin = 1.630000
+				xmax = 1.690000
+				text = "sp"

@@ -1,0 +1,88 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.000000
+xmax = 2.049000
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "Phone"
+		xmin = 0.000000
+		xmax = 2.049000
+		intervals: size = 12
+			intervals [1]:
+				xmin = 0.000000
+				xmax = 0.099000
+				text = "K"
+			intervals [2]:
+				xmin = 0.099000
+				xmax = 0.179000
+				text = "AE1"
+			intervals [3]:
+				xmin = 0.179000
+				xmax = 0.309000
+				text = "CH"
+			intervals [4]:
+				xmin = 0.309000
+				xmax = 0.339000
+				text = "HH"
+			intervals [5]:
+				xmin = 0.339000
+				xmax = 0.439000
+				text = "IY1"
+			intervals [6]:
+				xmin = 0.439000
+				xmax = 0.558000
+				text = "Z"
+			intervals [7]:
+				xmin = 0.558000
+				xmax = 0.658000
+				text = "JH"
+			intervals [8]:
+				xmin = 0.658000
+				xmax = 0.708000
+				text = "AA1"
+			intervals [9]:
+				xmin = 0.708000
+				xmax = 0.828000
+				text = "L"
+			intervals [10]:
+				xmin = 0.828000
+				xmax = 0.898000
+				text = "IY0"
+			intervals [11]:
+				xmin = 0.898000
+				xmax = 0.948000
+				text = "sp"
+			intervals [12]:
+				xmin = 0.948000
+				xmax = 2.049000
+				text = "sp"
+	item [2]:
+		class = "IntervalTier"
+		name = "Word"
+		xmin = 0.000000
+		xmax = 2.049000
+		intervals: size = 5
+			intervals [1]:
+				xmin = 0.000000
+				xmax = 0.309000
+				text = "CATCH"
+			intervals [2]:
+				xmin = 0.309000
+				xmax = 0.558000
+				text = "HE'S"
+			intervals [3]:
+				xmin = 0.558000
+				xmax = 0.898000
+				text = "JOLLY"
+			intervals [4]:
+				xmin = 0.898000
+				xmax = 0.948000
+				text = "sp"
+			intervals [5]:
+				xmin = 0.948000
+				xmax = 2.049000
+				text = "sp"

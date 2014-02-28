@@ -1,0 +1,88 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.000000
+xmax = 6.439000
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "Phone"
+		xmin = 0.000000
+		xmax = 6.439000
+		intervals: size = 12
+			intervals [1]:
+				xmin = 0.000000
+				xmax = 4.504000
+				text = "sp"
+			intervals [2]:
+				xmin = 4.504000
+				xmax = 4.584000
+				text = "B"
+			intervals [3]:
+				xmin = 4.584000
+				xmax = 4.764000
+				text = "AW1"
+			intervals [4]:
+				xmin = 4.764000
+				xmax = 4.794000
+				text = "T"
+			intervals [5]:
+				xmin = 4.794000
+				xmax = 4.874000
+				text = "HH"
+			intervals [6]:
+				xmin = 4.874000
+				xmax = 5.014000
+				text = "EH1"
+			intervals [7]:
+				xmin = 5.014000
+				xmax = 5.044000
+				text = "R"
+			intervals [8]:
+				xmin = 5.044000
+				xmax = 5.284000
+				text = "OW0"
+			intervals [9]:
+				xmin = 5.284000
+				xmax = 5.314000
+				text = "AH0"
+			intervals [10]:
+				xmin = 5.314000
+				xmax = 5.363000
+				text = "N"
+			intervals [11]:
+				xmin = 5.363000
+				xmax = 5.524000
+				text = "sp"
+			intervals [12]:
+				xmin = 5.524000
+				xmax = 6.439000
+				text = "sp"
+	item [2]:
+		class = "IntervalTier"
+		name = "Word"
+		xmin = 0.000000
+		xmax = 6.439000
+		intervals: size = 5
+			intervals [1]:
+				xmin = 0.000000
+				xmax = 4.504000
+				text = "sp"
+			intervals [2]:
+				xmin = 4.504000
+				xmax = 4.794000
+				text = "BOUT"
+			intervals [3]:
+				xmin = 4.794000
+				xmax = 5.363000
+				text = "HEROIN"
+			intervals [4]:
+				xmin = 5.363000
+				xmax = 5.524000
+				text = "sp"
+			intervals [5]:
+				xmin = 5.524000
+				xmax = 6.439000
+				text = "sp"

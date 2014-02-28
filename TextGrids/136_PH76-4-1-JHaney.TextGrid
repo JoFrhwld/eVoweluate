@@ -1,0 +1,96 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 8.212999999999965 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Jim Haney - phone" 
+        xmin = 0 
+        xmax = 8.212999999999965 
+        intervals: size = 14 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.029999999999972715 
+            text = "AH0" 
+        intervals [2]:
+            xmin = 0.029999999999972715 
+            xmax = 0.08999999999997499 
+            text = "Z" 
+        intervals [3]:
+            xmin = 0.08999999999997499 
+            xmax = 0.17000000000001592 
+            text = "AA1" 
+        intervals [4]:
+            xmin = 0.17000000000001592 
+            xmax = 0.2400000000000091 
+            text = "R" 
+        intervals [5]:
+            xmin = 0.2400000000000091 
+            xmax = 0.35899999999998045 
+            text = "S" 
+        intervals [6]:
+            xmin = 0.35899999999998045 
+            xmax = 0.4689999999999941 
+            text = "AE1" 
+        intervals [7]:
+            xmin = 0.4689999999999941 
+            xmax = 0.5389999999999873 
+            text = "K" 
+        intervals [8]:
+            xmin = 0.5389999999999873 
+            xmax = 0.5690000000000168 
+            text = "R" 
+        intervals [9]:
+            xmin = 0.5690000000000168 
+            xmax = 0.5989999999999895 
+            text = "IH0" 
+        intervals [10]:
+            xmin = 0.5989999999999895 
+            xmax = 0.728999999999985 
+            text = "S" 
+        intervals [11]:
+            xmin = 0.728999999999985 
+            xmax = 0.8079999999999927 
+            text = "T" 
+        intervals [12]:
+            xmin = 0.8079999999999927 
+            xmax = 0.9279999999999973 
+            text = "IY0" 
+        intervals [13]:
+            xmin = 0.9279999999999973 
+            xmax = 1.1879999999999882 
+            text = "sp" 
+        intervals [14]:
+            xmin = 1.1879999999999882 
+            xmax = 8.212999999999965 
+            text = "sp" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Jim Haney - word" 
+        xmin = 0 
+        xmax = 8.212999999999965 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.08999999999997499 
+            text = "IS" 
+        intervals [2]:
+            xmin = 0.08999999999997499 
+            xmax = 0.2400000000000091 
+            text = "OUR" 
+        intervals [3]:
+            xmin = 0.2400000000000091 
+            xmax = 0.9279999999999973 
+            text = "SACRISTY" 
+        intervals [4]:
+            xmin = 0.9279999999999973 
+            xmax = 1.1879999999999882 
+            text = "sp" 
+        intervals [5]:
+            xmin = 1.1879999999999882 
+            xmax = 8.212999999999965 
+            text = "sp" 

@@ -1,0 +1,80 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 0.6610000000000014 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Phone" 
+        xmin = 0 
+        xmax = 0.6610000000000014 
+        intervals: size = 10 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.08100000000001728 
+            text = "B" 
+        intervals [2]:
+            xmin = 0.08100000000001728 
+            xmax = 0.19099999999997408 
+            text = "IY0" 
+        intervals [3]:
+            xmin = 0.19099999999997408 
+            xmax = 0.2300000000000182 
+            text = "AH0" 
+        intervals [4]:
+            xmin = 0.2300000000000182 
+            xmax = 0.3210000000000264 
+            text = "L" 
+        intervals [5]:
+            xmin = 0.3210000000000264 
+            xmax = 0.41100000000000136 
+            text = "IY1" 
+        intervals [6]:
+            xmin = 0.41100000000000136 
+            xmax = 0.4300000000000068 
+            text = "D" 
+        intervals [7]:
+            xmin = 0.4300000000000068 
+            xmax = 0.45999999999997954 
+            text = "ER0" 
+        intervals [8]:
+            xmin = 0.45999999999997954 
+            xmax = 0.5609999999999786 
+            text = "B" 
+        intervals [9]:
+            xmin = 0.5609999999999786 
+            xmax = 0.6310000000000286 
+            text = "IY0" 
+        intervals [10]:
+            xmin = 0.6310000000000286 
+            xmax = 0.6610000000000014 
+            text = "AH0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Word" 
+        xmin = 0 
+        xmax = 0.6610000000000014 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.19099999999997408 
+            text = "BE" 
+        intervals [2]:
+            xmin = 0.19099999999997408 
+            xmax = 0.2300000000000182 
+            text = "A" 
+        intervals [3]:
+            xmin = 0.2300000000000182 
+            xmax = 0.45999999999997954 
+            text = "LEADER" 
+        intervals [4]:
+            xmin = 0.45999999999997954 
+            xmax = 0.6310000000000286 
+            text = "BE" 
+        intervals [5]:
+            xmin = 0.6310000000000286 
+            xmax = 0.6610000000000014 
+            text = "A" 

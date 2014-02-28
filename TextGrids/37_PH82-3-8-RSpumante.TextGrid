@@ -1,0 +1,88 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.000000
+xmax = 1.217000
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "Phone"
+		xmin = 0.000000
+		xmax = 1.217000
+		intervals: size = 12
+			intervals [1]:
+				xmin = 0.000000
+				xmax = 0.050000
+				text = "AA1"
+			intervals [2]:
+				xmin = 0.050000
+				xmax = 0.090000
+				text = "N"
+			intervals [3]:
+				xmin = 0.090000
+				xmax = 0.120000
+				text = "DH"
+			intervals [4]:
+				xmin = 0.120000
+				xmax = 0.149000
+				text = "AH0"
+			intervals [5]:
+				xmin = 0.149000
+				xmax = 0.220000
+				text = "M"
+			intervals [6]:
+				xmin = 0.220000
+				xmax = 0.360000
+				text = "EY1"
+			intervals [7]:
+				xmin = 0.360000
+				xmax = 0.470000
+				text = "F"
+			intervals [8]:
+				xmin = 0.470000
+				xmax = 0.570000
+				text = "L"
+			intervals [9]:
+				xmin = 0.570000
+				xmax = 0.740000
+				text = "AW2"
+			intervals [10]:
+				xmin = 0.740000
+				xmax = 0.830000
+				text = "ER0"
+			intervals [11]:
+				xmin = 0.830000
+				xmax = 0.920000
+				text = "sp"
+			intervals [12]:
+				xmin = 0.920000
+				xmax = 1.217000
+				text = "sp"
+	item [2]:
+		class = "IntervalTier"
+		name = "Word"
+		xmin = 0.000000
+		xmax = 1.217000
+		intervals: size = 5
+			intervals [1]:
+				xmin = 0.000000
+				xmax = 0.090000
+				text = "ON"
+			intervals [2]:
+				xmin = 0.090000
+				xmax = 0.149000
+				text = "THE"
+			intervals [3]:
+				xmin = 0.149000
+				xmax = 0.830000
+				text = "MAYFLOWER"
+			intervals [4]:
+				xmin = 0.830000
+				xmax = 0.920000
+				text = "sp"
+			intervals [5]:
+				xmin = 0.920000
+				xmax = 1.217000
+				text = "sp"

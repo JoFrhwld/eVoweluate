@@ -1,0 +1,120 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.000000
+xmax = 1.541000
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "Phone"
+		xmin = 0.000000
+		xmax = 1.541000
+		intervals: size = 20
+			intervals [1]:
+				xmin = 0.000000
+				xmax = 0.030000
+				text = "DH"
+			intervals [2]:
+				xmin = 0.030000
+				xmax = 0.061000
+				text = "AH0"
+			intervals [3]:
+				xmin = 0.061000
+				xmax = 0.191000
+				text = "S"
+			intervals [4]:
+				xmin = 0.191000
+				xmax = 0.311000
+				text = "ER0"
+			intervals [5]:
+				xmin = 0.311000
+				xmax = 0.421000
+				text = "AW1"
+			intervals [6]:
+				xmin = 0.421000
+				xmax = 0.461000
+				text = "N"
+			intervals [7]:
+				xmin = 0.461000
+				xmax = 0.481000
+				text = "D"
+			intervals [8]:
+				xmin = 0.481000
+				xmax = 0.510000
+				text = "IH0"
+			intervals [9]:
+				xmin = 0.510000
+				xmax = 0.571000
+				text = "NG"
+			intervals [10]:
+				xmin = 0.571000
+				xmax = 0.621000
+				text = "N"
+			intervals [11]:
+				xmin = 0.621000
+				xmax = 0.731000
+				text = "EY1"
+			intervals [12]:
+				xmin = 0.731000
+				xmax = 0.801000
+				text = "B"
+			intervals [13]:
+				xmin = 0.801000
+				xmax = 0.881000
+				text = "ER0"
+			intervals [14]:
+				xmin = 0.881000
+				xmax = 0.911000
+				text = "HH"
+			intervals [15]:
+				xmin = 0.911000
+				xmax = 1.041000
+				text = "UH2"
+			intervals [16]:
+				xmin = 1.041000
+				xmax = 1.131000
+				text = "D"
+			intervals [17]:
+				xmin = 1.131000
+				xmax = 1.261000
+				text = "Z"
+			intervals [18]:
+				xmin = 1.261000
+				xmax = 1.471000
+				text = "sp"
+			intervals [19]:
+				xmin = 1.471000
+				xmax = 1.511000
+				text = "Y"
+			intervals [20]:
+				xmin = 1.511000
+				xmax = 1.541000
+				text = "AA1"
+	item [2]:
+		class = "IntervalTier"
+		name = "Word"
+		xmin = 0.000000
+		xmax = 1.541000
+		intervals: size = 5
+			intervals [1]:
+				xmin = 0.000000
+				xmax = 0.061000
+				text = "THE"
+			intervals [2]:
+				xmin = 0.061000
+				xmax = 0.571000
+				text = "SURROUNDING"
+			intervals [3]:
+				xmin = 0.571000
+				xmax = 1.261000
+				text = "NEIGHBORHOODS"
+			intervals [4]:
+				xmin = 1.261000
+				xmax = 1.471000
+				text = "sp"
+			intervals [5]:
+				xmin = 1.471000
+				xmax = 1.541000
+				text = "YA"

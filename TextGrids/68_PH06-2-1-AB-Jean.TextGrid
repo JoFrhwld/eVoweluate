@@ -1,0 +1,108 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.000000
+xmax = 2.850000
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "Phone"
+		xmin = 0.000000
+		xmax = 2.850000
+		intervals: size = 17
+			intervals [1]:
+				xmin = 0.000000
+				xmax = 1.210000
+				text = "sp"
+			intervals [2]:
+				xmin = 1.210000
+				xmax = 1.340000
+				text = "EH1"
+			intervals [3]:
+				xmin = 1.340000
+				xmax = 1.480000
+				text = "L"
+			intervals [4]:
+				xmin = 1.480000
+				xmax = 1.510000
+				text = "AH0"
+			intervals [5]:
+				xmin = 1.510000
+				xmax = 1.600000
+				text = "N"
+			intervals [6]:
+				xmin = 1.600000
+				xmax = 1.699000
+				text = "ER0"
+			intervals [7]:
+				xmin = 1.699000
+				xmax = 1.790000
+				text = "P"
+			intervals [8]:
+				xmin = 1.790000
+				xmax = 1.860000
+				text = "AE1"
+			intervals [9]:
+				xmin = 1.860000
+				xmax = 1.940000
+				text = "L"
+			intervals [10]:
+				xmin = 1.940000
+				xmax = 1.990000
+				text = "D"
+			intervals [11]:
+				xmin = 1.990000
+				xmax = 2.050000
+				text = "IH2"
+			intervals [12]:
+				xmin = 2.050000
+				xmax = 2.110000
+				text = "N"
+			intervals [13]:
+				xmin = 2.110000
+				xmax = 2.230000
+				text = "EH0"
+			intervals [14]:
+				xmin = 2.230000
+				xmax = 2.260000
+				text = "T"
+			intervals [15]:
+				xmin = 2.260000
+				xmax = 2.400000
+				text = "IH0"
+			intervals [16]:
+				xmin = 2.400000
+				xmax = 2.580000
+				text = "sp"
+			intervals [17]:
+				xmin = 2.580000
+				xmax = 2.850000
+				text = "sp"
+	item [2]:
+		class = "IntervalTier"
+		name = "Word"
+		xmin = 0.000000
+		xmax = 2.850000
+		intervals: size = 5
+			intervals [1]:
+				xmin = 0.000000
+				xmax = 1.210000
+				text = "sp"
+			intervals [2]:
+				xmin = 1.210000
+				xmax = 1.699000
+				text = "ELEANOR"
+			intervals [3]:
+				xmin = 1.699000
+				xmax = 2.400000
+				text = "PALDINETTI"
+			intervals [4]:
+				xmin = 2.400000
+				xmax = 2.580000
+				text = "sp"
+			intervals [5]:
+				xmin = 2.580000
+				xmax = 2.850000
+				text = "sp"

@@ -1,0 +1,120 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.000000
+xmax = 1.631000
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "Phone"
+		xmin = 0.000000
+		xmax = 1.631000
+		intervals: size = 20
+			intervals [1]:
+				xmin = 0.000000
+				xmax = 0.170000
+				text = "sp"
+			intervals [2]:
+				xmin = 0.170000
+				xmax = 0.271000
+				text = "K"
+			intervals [3]:
+				xmin = 0.271000
+				xmax = 0.341000
+				text = "AE2"
+			intervals [4]:
+				xmin = 0.341000
+				xmax = 0.391000
+				text = "L"
+			intervals [5]:
+				xmin = 0.391000
+				xmax = 0.420000
+				text = "AH0"
+			intervals [6]:
+				xmin = 0.420000
+				xmax = 0.561000
+				text = "F"
+			intervals [7]:
+				xmin = 0.561000
+				xmax = 0.641000
+				text = "AO1"
+			intervals [8]:
+				xmin = 0.641000
+				xmax = 0.680000
+				text = "R"
+			intervals [9]:
+				xmin = 0.680000
+				xmax = 0.710000
+				text = "N"
+			intervals [10]:
+				xmin = 0.710000
+				xmax = 0.761000
+				text = "Y"
+			intervals [11]:
+				xmin = 0.761000
+				xmax = 0.791000
+				text = "AH0"
+			intervals [12]:
+				xmin = 0.791000
+				xmax = 0.950000
+				text = "P"
+			intervals [13]:
+				xmin = 0.950000
+				xmax = 1.011000
+				text = "R"
+			intervals [14]:
+				xmin = 1.011000
+				xmax = 1.111000
+				text = "AY1"
+			intervals [15]:
+				xmin = 1.111000
+				xmax = 1.221000
+				text = "M"
+			intervals [16]:
+				xmin = 1.221000
+				xmax = 1.271000
+				text = "EH2"
+			intervals [17]:
+				xmin = 1.271000
+				xmax = 1.351000
+				text = "R"
+			intervals [18]:
+				xmin = 1.351000
+				xmax = 1.461000
+				text = "IY0"
+			intervals [19]:
+				xmin = 1.461000
+				xmax = 1.561000
+				text = "sp"
+			intervals [20]:
+				xmin = 1.561000
+				xmax = 1.631000
+				text = "sp"
+	item [2]:
+		class = "IntervalTier"
+		name = "Word"
+		xmin = 0.000000
+		xmax = 1.631000
+		intervals: size = 5
+			intervals [1]:
+				xmin = 0.000000
+				xmax = 0.170000
+				text = "sp"
+			intervals [2]:
+				xmin = 0.170000
+				xmax = 0.791000
+				text = "CALIFORNIA"
+			intervals [3]:
+				xmin = 0.791000
+				xmax = 1.461000
+				text = "PRIMARY"
+			intervals [4]:
+				xmin = 1.461000
+				xmax = 1.561000
+				text = "sp"
+			intervals [5]:
+				xmin = 1.561000
+				xmax = 1.631000
+				text = "sp"

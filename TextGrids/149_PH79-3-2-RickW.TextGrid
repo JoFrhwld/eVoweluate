@@ -1,0 +1,96 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.000000
+xmax = 1.180000
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "Phone"
+		xmin = 0.000000
+		xmax = 1.180000
+		intervals: size = 14
+			intervals [1]:
+				xmin = 0.000000
+				xmax = 0.030000
+				text = "B"
+			intervals [2]:
+				xmin = 0.030000
+				xmax = 0.180000
+				text = "AE1"
+			intervals [3]:
+				xmin = 0.180000
+				xmax = 0.210000
+				text = "K"
+			intervals [4]:
+				xmin = 0.210000
+				xmax = 0.259000
+				text = "sp"
+			intervals [5]:
+				xmin = 0.259000
+				xmax = 0.330000
+				text = "L"
+			intervals [6]:
+				xmin = 0.330000
+				xmax = 0.450000
+				text = "AE1"
+			intervals [7]:
+				xmin = 0.450000
+				xmax = 0.490000
+				text = "V"
+			intervals [8]:
+				xmin = 0.490000
+				xmax = 0.519000
+				text = "AH0"
+			intervals [9]:
+				xmin = 0.519000
+				xmax = 0.620000
+				text = "T"
+			intervals [10]:
+				xmin = 0.620000
+				xmax = 0.719000
+				text = "AO2"
+			intervals [11]:
+				xmin = 0.719000
+				xmax = 0.800000
+				text = "R"
+			intervals [12]:
+				xmin = 0.800000
+				xmax = 0.939000
+				text = "IY0"
+			intervals [13]:
+				xmin = 0.939000
+				xmax = 0.969000
+				text = "ER0"
+			intervals [14]:
+				xmin = 0.969000
+				xmax = 1.180000
+				text = "AH1"
+	item [2]:
+		class = "IntervalTier"
+		name = "Word"
+		xmin = 0.000000
+		xmax = 1.180000
+		intervals: size = 5
+			intervals [1]:
+				xmin = 0.000000
+				xmax = 0.210000
+				text = "BACK"
+			intervals [2]:
+				xmin = 0.210000
+				xmax = 0.259000
+				text = "sp"
+			intervals [3]:
+				xmin = 0.259000
+				xmax = 0.939000
+				text = "LAVATORY"
+			intervals [4]:
+				xmin = 0.939000
+				xmax = 0.969000
+				text = "OR"
+			intervals [5]:
+				xmin = 0.969000
+				xmax = 1.180000
+				text = "UH"

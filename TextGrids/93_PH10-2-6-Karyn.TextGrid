@@ -1,0 +1,96 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.000000
+xmax = 0.790000
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "Phone"
+		xmin = 0.000000
+		xmax = 0.790000
+		intervals: size = 14
+			intervals [1]:
+				xmin = 0.000000
+				xmax = 0.030000
+				text = "sp"
+			intervals [2]:
+				xmin = 0.030000
+				xmax = 0.090000
+				text = "K"
+			intervals [3]:
+				xmin = 0.090000
+				xmax = 0.170000
+				text = "IY1"
+			intervals [4]:
+				xmin = 0.170000
+				xmax = 0.200000
+				text = "P"
+			intervals [5]:
+				xmin = 0.200000
+				xmax = 0.310000
+				text = "JH"
+			intervals [6]:
+				xmin = 0.310000
+				xmax = 0.379000
+				text = "OW1"
+			intervals [7]:
+				xmin = 0.379000
+				xmax = 0.440000
+				text = "K"
+			intervals [8]:
+				xmin = 0.440000
+				xmax = 0.489000
+				text = "AH0"
+			intervals [9]:
+				xmin = 0.489000
+				xmax = 0.540000
+				text = "N"
+			intervals [10]:
+				xmin = 0.540000
+				xmax = 0.580000
+				text = "W"
+			intervals [11]:
+				xmin = 0.580000
+				xmax = 0.629000
+				text = "IY1"
+			intervals [12]:
+				xmin = 0.629000
+				xmax = 0.719000
+				text = "SH"
+			intervals [13]:
+				xmin = 0.719000
+				xmax = 0.749000
+				text = "UH1"
+			intervals [14]:
+				xmin = 0.749000
+				xmax = 0.790000
+				text = "D"
+	item [2]:
+		class = "IntervalTier"
+		name = "Word"
+		xmin = 0.000000
+		xmax = 0.790000
+		intervals: size = 5
+			intervals [1]:
+				xmin = 0.000000
+				xmax = 0.030000
+				text = "sp"
+			intervals [2]:
+				xmin = 0.030000
+				xmax = 0.200000
+				text = "KEEP"
+			intervals [3]:
+				xmin = 0.200000
+				xmax = 0.540000
+				text = "JOKING"
+			intervals [4]:
+				xmin = 0.540000
+				xmax = 0.629000
+				text = "WE"
+			intervals [5]:
+				xmin = 0.629000
+				xmax = 0.790000
+				text = "SHOULD"

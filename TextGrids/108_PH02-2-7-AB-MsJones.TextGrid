@@ -1,0 +1,100 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.000000
+xmax = 1.210000
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "Phone"
+		xmin = 0.000000
+		xmax = 1.210000
+		intervals: size = 15
+			intervals [1]:
+				xmin = 0.000000
+				xmax = 0.050000
+				text = "DH"
+			intervals [2]:
+				xmin = 0.050000
+				xmax = 0.140000
+				text = "EH1"
+			intervals [3]:
+				xmin = 0.140000
+				xmax = 0.170000
+				text = "R"
+			intervals [4]:
+				xmin = 0.170000
+				xmax = 0.280000
+				text = "Z"
+			intervals [5]:
+				xmin = 0.280000
+				xmax = 0.340000
+				text = "AH0"
+			intervals [6]:
+				xmin = 0.340000
+				xmax = 0.520000
+				text = "HH"
+			intervals [7]:
+				xmin = 0.520000
+				xmax = 0.580000
+				text = "UH1"
+			intervals [8]:
+				xmin = 0.580000
+				xmax = 0.700000
+				text = "K"
+			intervals [9]:
+				xmin = 0.700000
+				xmax = 0.800000
+				text = "ER0"
+			intervals [10]:
+				xmin = 0.800000
+				xmax = 0.889000
+				text = "R"
+			intervals [11]:
+				xmin = 0.889000
+				xmax = 0.960000
+				text = "AY1"
+			intervals [12]:
+				xmin = 0.960000
+				xmax = 1.000000
+				text = "T"
+			intervals [13]:
+				xmin = 1.000000
+				xmax = 1.090000
+				text = "DH"
+			intervals [14]:
+				xmin = 1.090000
+				xmax = 1.180000
+				text = "EH1"
+			intervals [15]:
+				xmin = 1.180000
+				xmax = 1.210000
+				text = "R"
+	item [2]:
+		class = "IntervalTier"
+		name = "Word"
+		xmin = 0.000000
+		xmax = 1.210000
+		intervals: size = 5
+			intervals [1]:
+				xmin = 0.000000
+				xmax = 0.280000
+				text = "THERE'S"
+			intervals [2]:
+				xmin = 0.280000
+				xmax = 0.340000
+				text = "A"
+			intervals [3]:
+				xmin = 0.340000
+				xmax = 0.800000
+				text = "HOOKER"
+			intervals [4]:
+				xmin = 0.800000
+				xmax = 1.000000
+				text = "RIGHT"
+			intervals [5]:
+				xmin = 1.000000
+				xmax = 1.210000
+				text = "THERE"

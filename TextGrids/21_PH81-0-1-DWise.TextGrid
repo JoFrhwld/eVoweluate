@@ -1,0 +1,88 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.000000
+xmax = 1.061000
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "Phone"
+		xmin = 0.000000
+		xmax = 1.061000
+		intervals: size = 12
+			intervals [1]:
+				xmin = 0.000000
+				xmax = 0.080000
+				text = "AA1"
+			intervals [2]:
+				xmin = 0.080000
+				xmax = 0.110000
+				text = "N"
+			intervals [3]:
+				xmin = 0.110000
+				xmax = 0.160000
+				text = "N"
+			intervals [4]:
+				xmin = 0.160000
+				xmax = 0.320000
+				text = "OW1"
+			intervals [5]:
+				xmin = 0.320000
+				xmax = 0.370000
+				text = "HH"
+			intervals [6]:
+				xmin = 0.370000
+				xmax = 0.450000
+				text = "AH1"
+			intervals [7]:
+				xmin = 0.450000
+				xmax = 0.530000
+				text = "M"
+			intervals [8]:
+				xmin = 0.530000
+				xmax = 0.580000
+				text = "B"
+			intervals [9]:
+				xmin = 0.580000
+				xmax = 0.630000
+				text = "AH0"
+			intervals [10]:
+				xmin = 0.630000
+				xmax = 0.880000
+				text = "L"
+			intervals [11]:
+				xmin = 0.880000
+				xmax = 0.960000
+				text = "sp"
+			intervals [12]:
+				xmin = 0.960000
+				xmax = 1.061000
+				text = "sp"
+	item [2]:
+		class = "IntervalTier"
+		name = "Word"
+		xmin = 0.000000
+		xmax = 1.061000
+		intervals: size = 5
+			intervals [1]:
+				xmin = 0.000000
+				xmax = 0.110000
+				text = "ON"
+			intervals [2]:
+				xmin = 0.110000
+				xmax = 0.320000
+				text = "NO"
+			intervals [3]:
+				xmin = 0.320000
+				xmax = 0.880000
+				text = "HUMBLE"
+			intervals [4]:
+				xmin = 0.880000
+				xmax = 0.960000
+				text = "sp"
+			intervals [5]:
+				xmin = 0.960000
+				xmax = 1.061000
+				text = "sp"

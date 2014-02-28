@@ -1,0 +1,116 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.000000
+xmax = 1.540000
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "Phone"
+		xmin = 0.000000
+		xmax = 1.540000
+		intervals: size = 19
+			intervals [1]:
+				xmin = 0.000000
+				xmax = 0.179000
+				text = "AE1"
+			intervals [2]:
+				xmin = 0.179000
+				xmax = 0.270000
+				text = "K"
+			intervals [3]:
+				xmin = 0.270000
+				xmax = 0.310000
+				text = "CH"
+			intervals [4]:
+				xmin = 0.310000
+				xmax = 0.449000
+				text = "L"
+			intervals [5]:
+				xmin = 0.449000
+				xmax = 0.510000
+				text = "IY0"
+			intervals [6]:
+				xmin = 0.510000
+				xmax = 0.600000
+				text = "sp"
+			intervals [7]:
+				xmin = 0.600000
+				xmax = 0.630000
+				text = "P"
+			intervals [8]:
+				xmin = 0.630000
+				xmax = 0.670000
+				text = "R"
+			intervals [9]:
+				xmin = 0.670000
+				xmax = 0.790000
+				text = "AE1"
+			intervals [10]:
+				xmin = 0.790000
+				xmax = 0.820000
+				text = "K"
+			intervals [11]:
+				xmin = 0.820000
+				xmax = 0.920000
+				text = "T"
+			intervals [12]:
+				xmin = 0.920000
+				xmax = 0.970000
+				text = "IH2"
+			intervals [13]:
+				xmin = 0.970000
+				xmax = 1.080000
+				text = "S"
+			intervals [14]:
+				xmin = 1.080000
+				xmax = 1.140000
+				text = "IH0"
+			intervals [15]:
+				xmin = 1.140000
+				xmax = 1.240000
+				text = "NG"
+			intervals [16]:
+				xmin = 1.240000
+				xmax = 1.280000
+				text = "DH"
+			intervals [17]:
+				xmin = 1.280000
+				xmax = 1.360000
+				text = "EH1"
+			intervals [18]:
+				xmin = 1.360000
+				xmax = 1.400000
+				text = "R"
+			intervals [19]:
+				xmin = 1.400000
+				xmax = 1.540000
+				text = "sp"
+	item [2]:
+		class = "IntervalTier"
+		name = "Word"
+		xmin = 0.000000
+		xmax = 1.540000
+		intervals: size = 5
+			intervals [1]:
+				xmin = 0.000000
+				xmax = 0.510000
+				text = "ACTUALLY"
+			intervals [2]:
+				xmin = 0.510000
+				xmax = 0.600000
+				text = "sp"
+			intervals [3]:
+				xmin = 0.600000
+				xmax = 1.240000
+				text = "PRACTICING"
+			intervals [4]:
+				xmin = 1.240000
+				xmax = 1.400000
+				text = "THEIR"
+			intervals [5]:
+				xmin = 1.400000
+				xmax = 1.540000
+				text = "sp"

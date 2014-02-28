@@ -1,0 +1,96 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.000000
+xmax = 1.380000
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "Phone"
+		xmin = 0.000000
+		xmax = 1.380000
+		intervals: size = 14
+			intervals [1]:
+				xmin = 0.000000
+				xmax = 0.120000
+				text = "B"
+			intervals [2]:
+				xmin = 0.120000
+				xmax = 0.350000
+				text = "AE1"
+			intervals [3]:
+				xmin = 0.350000
+				xmax = 0.390000
+				text = "D"
+			intervals [4]:
+				xmin = 0.390000
+				xmax = 0.560000
+				text = "AE1"
+			intervals [5]:
+				xmin = 0.560000
+				xmax = 0.590000
+				text = "S"
+			intervals [6]:
+				xmin = 0.590000
+				xmax = 0.710000
+				text = "B"
+			intervals [7]:
+				xmin = 0.710000
+				xmax = 0.920000
+				text = "AH0"
+			intervals [8]:
+				xmin = 0.920000
+				xmax = 0.980000
+				text = "B"
+			intervals [9]:
+				xmin = 0.980000
+				xmax = 1.030000
+				text = "UW1"
+			intervals [10]:
+				xmin = 1.030000
+				xmax = 1.150000
+				text = "N"
+			intervals [11]:
+				xmin = 1.150000
+				xmax = 1.190000
+				text = "R"
+			intervals [12]:
+				xmin = 1.190000
+				xmax = 1.300000
+				text = "AE1"
+			intervals [13]:
+				xmin = 1.300000
+				xmax = 1.340000
+				text = "N"
+			intervals [14]:
+				xmin = 1.340000
+				xmax = 1.380000
+				text = "AH0"
+	item [2]:
+		class = "IntervalTier"
+		name = "Word"
+		xmin = 0.000000
+		xmax = 1.380000
+		intervals: size = 5
+			intervals [1]:
+				xmin = 0.000000
+				xmax = 0.390000
+				text = "BAD"
+			intervals [2]:
+				xmin = 0.390000
+				xmax = 0.590000
+				text = "ASS"
+			intervals [3]:
+				xmin = 0.590000
+				xmax = 1.150000
+				text = "BABOON"
+			intervals [4]:
+				xmin = 1.150000
+				xmax = 1.340000
+				text = "RAN"
+			intervals [5]:
+				xmin = 1.340000
+				xmax = 1.380000
+				text = "A"

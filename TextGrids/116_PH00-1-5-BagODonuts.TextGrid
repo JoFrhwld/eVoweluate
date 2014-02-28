@@ -1,0 +1,120 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.000000
+xmax = 1.980000
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "Phone"
+		xmin = 0.000000
+		xmax = 1.980000
+		intervals: size = 20
+			intervals [1]:
+				xmin = 0.000000
+				xmax = 0.030000
+				text = "AH0"
+			intervals [2]:
+				xmin = 0.030000
+				xmax = 0.090000
+				text = "N"
+			intervals [3]:
+				xmin = 0.090000
+				xmax = 0.120000
+				text = "AH0"
+			intervals [4]:
+				xmin = 0.120000
+				xmax = 0.160000
+				text = "HH"
+			intervals [5]:
+				xmin = 0.160000
+				xmax = 0.290000
+				text = "AW1"
+			intervals [6]:
+				xmin = 0.290000
+				xmax = 0.350000
+				text = "Z"
+			intervals [7]:
+				xmin = 0.350000
+				xmax = 0.410000
+				text = "IH0"
+			intervals [8]:
+				xmin = 0.410000
+				xmax = 0.490000
+				text = "NG"
+			intervals [9]:
+				xmin = 0.490000
+				xmax = 0.520000
+				text = "D"
+			intervals [10]:
+				xmin = 0.520000
+				xmax = 0.549000
+				text = "IH0"
+			intervals [11]:
+				xmin = 0.549000
+				xmax = 0.640000
+				text = "V"
+			intervals [12]:
+				xmin = 0.640000
+				xmax = 0.669000
+				text = "EH1"
+			intervals [13]:
+				xmin = 0.669000
+				xmax = 0.829000
+				text = "L"
+			intervals [14]:
+				xmin = 0.829000
+				xmax = 0.860000
+				text = "AH0"
+			intervals [15]:
+				xmin = 0.860000
+				xmax = 0.900000
+				text = "P"
+			intervals [16]:
+				xmin = 0.900000
+				xmax = 0.939000
+				text = "M"
+			intervals [17]:
+				xmin = 0.939000
+				xmax = 0.970000
+				text = "AH0"
+			intervals [18]:
+				xmin = 0.970000
+				xmax = 1.000000
+				text = "N"
+			intervals [19]:
+				xmin = 1.000000
+				xmax = 1.030000
+				text = "T"
+			intervals [20]:
+				xmin = 1.030000
+				xmax = 1.980000
+				text = "sp"
+	item [2]:
+		class = "IntervalTier"
+		name = "Word"
+		xmin = 0.000000
+		xmax = 1.980000
+		intervals: size = 5
+			intervals [1]:
+				xmin = 0.000000
+				xmax = 0.090000
+				text = "IN"
+			intervals [2]:
+				xmin = 0.090000
+				xmax = 0.120000
+				text = "A"
+			intervals [3]:
+				xmin = 0.120000
+				xmax = 0.490000
+				text = "HOUSING"
+			intervals [4]:
+				xmin = 0.490000
+				xmax = 1.030000
+				text = "DEVELOPMENT"
+			intervals [5]:
+				xmin = 1.030000
+				xmax = 1.980000
+				text = "sp"

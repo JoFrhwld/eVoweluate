@@ -1,0 +1,128 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.000000
+xmax = 1.961000
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "Phone"
+		xmin = 0.000000
+		xmax = 1.961000
+		intervals: size = 22
+			intervals [1]:
+				xmin = 0.000000
+				xmax = 0.621000
+				text = "sp"
+			intervals [2]:
+				xmin = 0.621000
+				xmax = 0.651000
+				text = "F"
+			intervals [3]:
+				xmin = 0.651000
+				xmax = 0.771000
+				text = "AY2"
+			intervals [4]:
+				xmin = 0.771000
+				xmax = 0.861000
+				text = "N"
+			intervals [5]:
+				xmin = 0.861000
+				xmax = 0.971000
+				text = "AE1"
+			intervals [6]:
+				xmin = 0.971000
+				xmax = 1.011000
+				text = "N"
+			intervals [7]:
+				xmin = 1.011000
+				xmax = 1.121000
+				text = "SH"
+			intervals [8]:
+				xmin = 1.121000
+				xmax = 1.151000
+				text = "AH0"
+			intervals [9]:
+				xmin = 1.151000
+				xmax = 1.211000
+				text = "L"
+			intervals [10]:
+				xmin = 1.211000
+				xmax = 1.371000
+				text = "ER0"
+			intervals [11]:
+				xmin = 1.371000
+				xmax = 1.451000
+				text = "EY1"
+			intervals [12]:
+				xmin = 1.451000
+				xmax = 1.491000
+				text = "N"
+			intervals [13]:
+				xmin = 1.491000
+				xmax = 1.571000
+				text = "JH"
+			intervals [14]:
+				xmin = 1.571000
+				xmax = 1.601000
+				text = "M"
+			intervals [15]:
+				xmin = 1.601000
+				xmax = 1.631000
+				text = "AH0"
+			intervals [16]:
+				xmin = 1.631000
+				xmax = 1.681000
+				text = "N"
+			intervals [17]:
+				xmin = 1.681000
+				xmax = 1.741000
+				text = "T"
+			intervals [18]:
+				xmin = 1.741000
+				xmax = 1.771000
+				text = "S"
+			intervals [19]:
+				xmin = 1.771000
+				xmax = 1.801000
+				text = "W"
+			intervals [20]:
+				xmin = 1.801000
+				xmax = 1.831000
+				text = "IH1"
+			intervals [21]:
+				xmin = 1.831000
+				xmax = 1.871000
+				text = "TH"
+			intervals [22]:
+				xmin = 1.871000
+				xmax = 1.961000
+				text = "sp"
+	item [2]:
+		class = "IntervalTier"
+		name = "Word"
+		xmin = 0.000000
+		xmax = 1.961000
+		intervals: size = 5
+			intervals [1]:
+				xmin = 0.000000
+				xmax = 0.621000
+				text = "sp"
+			intervals [2]:
+				xmin = 0.621000
+				xmax = 1.211000
+				text = "FINANCIAL"
+			intervals [3]:
+				xmin = 1.211000
+				xmax = 1.771000
+				text = "ARRANGEMENTS"
+			intervals [4]:
+				xmin = 1.771000
+				xmax = 1.871000
+				text = "WITH"
+			intervals [5]:
+				xmin = 1.871000
+				xmax = 1.961000
+				text = "sp"

@@ -1,0 +1,92 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.000000
+xmax = 1.280000
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "Phone"
+		xmin = 0.000000
+		xmax = 1.280000
+		intervals: size = 13
+			intervals [1]:
+				xmin = 0.000000
+				xmax = 0.070000
+				text = "W"
+			intervals [2]:
+				xmin = 0.070000
+				xmax = 0.230000
+				text = "ER0"
+			intervals [3]:
+				xmin = 0.230000
+				xmax = 0.399000
+				text = "sp"
+			intervals [4]:
+				xmin = 0.399000
+				xmax = 0.449000
+				text = "IH0"
+			intervals [5]:
+				xmin = 0.449000
+				xmax = 0.529000
+				text = "V"
+			intervals [6]:
+				xmin = 0.529000
+				xmax = 0.629000
+				text = "IH1"
+			intervals [7]:
+				xmin = 0.629000
+				xmax = 0.659000
+				text = "K"
+			intervals [8]:
+				xmin = 0.659000
+				xmax = 0.708000
+				text = "T"
+			intervals [9]:
+				xmin = 0.708000
+				xmax = 0.738000
+				text = "AH0"
+			intervals [10]:
+				xmin = 0.738000
+				xmax = 0.818000
+				text = "D"
+			intervals [11]:
+				xmin = 0.818000
+				xmax = 1.201000
+				text = "sp"
+			intervals [12]:
+				xmin = 1.201000
+				xmax = 1.230000
+				text = "Y"
+			intervals [13]:
+				xmin = 1.230000
+				xmax = 1.280000
+				text = "UW1"
+	item [2]:
+		class = "IntervalTier"
+		name = "Word"
+		xmin = 0.000000
+		xmax = 1.280000
+		intervals: size = 5
+			intervals [1]:
+				xmin = 0.000000
+				xmax = 0.230000
+				text = "WERE"
+			intervals [2]:
+				xmin = 0.230000
+				xmax = 0.399000
+				text = "sp"
+			intervals [3]:
+				xmin = 0.399000
+				xmax = 0.818000
+				text = "EVICTED"
+			intervals [4]:
+				xmin = 0.818000
+				xmax = 1.201000
+				text = "sp"
+			intervals [5]:
+				xmin = 1.201000
+				xmax = 1.280000
+				text = "YOU"

@@ -1,0 +1,120 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.000000
+xmax = 1.377000
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "Phone"
+		xmin = 0.000000
+		xmax = 1.377000
+		intervals: size = 20
+			intervals [1]:
+				xmin = 0.000000
+				xmax = 0.260000
+				text = "sp"
+			intervals [2]:
+				xmin = 0.260000
+				xmax = 0.340000
+				text = "M"
+			intervals [3]:
+				xmin = 0.340000
+				xmax = 0.379000
+				text = "IH1"
+			intervals [4]:
+				xmin = 0.379000
+				xmax = 0.509000
+				text = "SH"
+			intervals [5]:
+				xmin = 0.509000
+				xmax = 0.539000
+				text = "AH0"
+			intervals [6]:
+				xmin = 0.539000
+				xmax = 0.569000
+				text = "N"
+			intervals [7]:
+				xmin = 0.569000
+				xmax = 0.689000
+				text = "S"
+			intervals [8]:
+				xmin = 0.689000
+				xmax = 0.739000
+				text = "T"
+			intervals [9]:
+				xmin = 0.739000
+				xmax = 0.878000
+				text = "EY1"
+			intervals [10]:
+				xmin = 0.878000
+				xmax = 0.918000
+				text = "T"
+			intervals [11]:
+				xmin = 0.918000
+				xmax = 0.968000
+				text = "M"
+			intervals [12]:
+				xmin = 0.968000
+				xmax = 0.998000
+				text = "AH0"
+			intervals [13]:
+				xmin = 0.998000
+				xmax = 1.028000
+				text = "N"
+			intervals [14]:
+				xmin = 1.028000
+				xmax = 1.058000
+				text = "T"
+			intervals [15]:
+				xmin = 1.058000
+				xmax = 1.128000
+				text = "S"
+			intervals [16]:
+				xmin = 1.128000
+				xmax = 1.158000
+				text = "AH0"
+			intervals [17]:
+				xmin = 1.158000
+				xmax = 1.188000
+				text = "N"
+			intervals [18]:
+				xmin = 1.188000
+				xmax = 1.218000
+				text = "D"
+			intervals [19]:
+				xmin = 1.218000
+				xmax = 1.327000
+				text = "AO1"
+			intervals [20]:
+				xmin = 1.327000
+				xmax = 1.377000
+				text = "L"
+	item [2]:
+		class = "IntervalTier"
+		name = "Word"
+		xmin = 0.000000
+		xmax = 1.377000
+		intervals: size = 5
+			intervals [1]:
+				xmin = 0.000000
+				xmax = 0.260000
+				text = "sp"
+			intervals [2]:
+				xmin = 0.260000
+				xmax = 0.569000
+				text = "MISSION"
+			intervals [3]:
+				xmin = 0.569000
+				xmax = 1.128000
+				text = "STATEMENTS"
+			intervals [4]:
+				xmin = 1.128000
+				xmax = 1.218000
+				text = "AND"
+			intervals [5]:
+				xmin = 1.218000
+				xmax = 1.377000
+				text = "ALL"

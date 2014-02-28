@@ -1,0 +1,88 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.4410000000002583 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Phone" 
+        xmin = 0 
+        xmax = 1.4410000000002583 
+        intervals: size = 12 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.09000000000014552 
+            text = "F" 
+        intervals [2]:
+            xmin = 0.09000000000014552 
+            xmax = 0.14900000000034197 
+            text = "ER0" 
+        intervals [3]:
+            xmin = 0.14900000000034197 
+            xmax = 0.18000000000029104 
+            text = "AH0" 
+        intervals [4]:
+            xmin = 0.18000000000029104 
+            xmax = 0.21000000000003638 
+            text = "N" 
+        intervals [5]:
+            xmin = 0.21000000000003638 
+            xmax = 0.3000000000001819 
+            text = "AA0" 
+        intervals [6]:
+            xmin = 0.3000000000001819 
+            xmax = 0.36999999999989086 
+            text = "D" 
+        intervals [7]:
+            xmin = 0.36999999999989086 
+            xmax = 0.43000000000029104 
+            text = "IH1" 
+        intervals [8]:
+            xmin = 0.43000000000029104 
+            xmax = 0.5799999999999272 
+            text = "SH" 
+        intervals [9]:
+            xmin = 0.5799999999999272 
+            xmax = 0.6199999999998909 
+            text = "AH0" 
+        intervals [10]:
+            xmin = 0.6199999999998909 
+            xmax = 0.650000000000091 
+            text = "N" 
+        intervals [11]:
+            xmin = 0.650000000000091 
+            xmax = 0.7699999999999818 
+            text = "sp" 
+        intervals [12]:
+            xmin = 0.7699999999999818 
+            xmax = 1.4410000000002583 
+            text = "sp" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Word" 
+        xmin = 0 
+        xmax = 1.4410000000002583 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.14900000000034197 
+            text = "FOR" 
+        intervals [2]:
+            xmin = 0.14900000000034197 
+            xmax = 0.21000000000003638 
+            text = "AN" 
+        intervals [3]:
+            xmin = 0.21000000000003638 
+            xmax = 0.650000000000091 
+            text = "AUDITION" 
+        intervals [4]:
+            xmin = 0.650000000000091 
+            xmax = 0.7699999999999818 
+            text = "sp" 
+        intervals [5]:
+            xmin = 0.7699999999999818 
+            xmax = 1.4410000000002583 
+            text = "sp" 

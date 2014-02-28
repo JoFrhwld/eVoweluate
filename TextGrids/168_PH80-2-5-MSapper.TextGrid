@@ -1,0 +1,88 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.000000
+xmax = 2.187000
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "Phone"
+		xmin = 0.000000
+		xmax = 2.187000
+		intervals: size = 12
+			intervals [1]:
+				xmin = 0.000000
+				xmax = 0.030000
+				text = "sp"
+			intervals [2]:
+				xmin = 0.030000
+				xmax = 1.187000
+				text = "sp"
+			intervals [3]:
+				xmin = 1.187000
+				xmax = 1.307000
+				text = "JH"
+			intervals [4]:
+				xmin = 1.307000
+				xmax = 1.357000
+				text = "UW1"
+			intervals [5]:
+				xmin = 1.357000
+				xmax = 1.437000
+				text = "L"
+			intervals [6]:
+				xmin = 1.437000
+				xmax = 1.497000
+				text = "IY0"
+			intervals [7]:
+				xmin = 1.497000
+				xmax = 1.527000
+				text = "Z"
+			intervals [8]:
+				xmin = 1.527000
+				xmax = 1.657000
+				text = "S"
+			intervals [9]:
+				xmin = 1.657000
+				xmax = 1.807000
+				text = "OW1"
+			intervals [10]:
+				xmin = 1.807000
+				xmax = 1.867000
+				text = "L"
+			intervals [11]:
+				xmin = 1.867000
+				xmax = 1.906000
+				text = "D"
+			intervals [12]:
+				xmin = 1.906000
+				xmax = 2.187000
+				text = "sp"
+	item [2]:
+		class = "IntervalTier"
+		name = "Word"
+		xmin = 0.000000
+		xmax = 2.187000
+		intervals: size = 5
+			intervals [1]:
+				xmin = 0.000000
+				xmax = 0.030000
+				text = "sp"
+			intervals [2]:
+				xmin = 0.030000
+				xmax = 1.187000
+				text = "sp"
+			intervals [3]:
+				xmin = 1.187000
+				xmax = 1.527000
+				text = "JULIE'S"
+			intervals [4]:
+				xmin = 1.527000
+				xmax = 1.906000
+				text = "SOLD"
+			intervals [5]:
+				xmin = 1.906000
+				xmax = 2.187000
+				text = "sp"

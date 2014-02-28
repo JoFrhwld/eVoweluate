@@ -1,0 +1,128 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.000000
+xmax = 1.340000
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "Phone"
+		xmin = 0.000000
+		xmax = 1.340000
+		intervals: size = 22
+			intervals [1]:
+				xmin = 0.000000
+				xmax = 0.060000
+				text = "W"
+			intervals [2]:
+				xmin = 0.060000
+				xmax = 0.100000
+				text = "AH1"
+			intervals [3]:
+				xmin = 0.100000
+				xmax = 0.179000
+				text = "Z"
+			intervals [4]:
+				xmin = 0.179000
+				xmax = 0.230000
+				text = "AH0"
+			intervals [5]:
+				xmin = 0.230000
+				xmax = 0.260000
+				text = "N"
+			intervals [6]:
+				xmin = 0.260000
+				xmax = 0.290000
+				text = "T"
+			intervals [7]:
+				xmin = 0.290000
+				xmax = 0.320000
+				text = "AH0"
+			intervals [8]:
+				xmin = 0.320000
+				xmax = 0.360000
+				text = "S"
+			intervals [9]:
+				xmin = 0.360000
+				xmax = 0.389000
+				text = "K"
+			intervals [10]:
+				xmin = 0.389000
+				xmax = 0.440000
+				text = "UW1"
+			intervals [11]:
+				xmin = 0.440000
+				xmax = 0.500000
+				text = "L"
+			intervals [12]:
+				xmin = 0.500000
+				xmax = 0.590000
+				text = "T"
+			intervals [13]:
+				xmin = 0.590000
+				xmax = 0.650000
+				text = "IY2"
+			intervals [14]:
+				xmin = 0.650000
+				xmax = 0.730000
+				text = "CH"
+			intervals [15]:
+				xmin = 0.730000
+				xmax = 0.760000
+				text = "ER0"
+			intervals [16]:
+				xmin = 0.760000
+				xmax = 0.900000
+				text = "SH"
+			intervals [17]:
+				xmin = 0.900000
+				xmax = 0.970000
+				text = "IY1"
+			intervals [18]:
+				xmin = 0.970000
+				xmax = 1.040000
+				text = "B"
+			intervals [19]:
+				xmin = 1.040000
+				xmax = 1.080000
+				text = "IY0"
+			intervals [20]:
+				xmin = 1.080000
+				xmax = 1.190000
+				text = "K"
+			intervals [21]:
+				xmin = 1.190000
+				xmax = 1.290000
+				text = "EY1"
+			intervals [22]:
+				xmin = 1.290000
+				xmax = 1.340000
+				text = "M"
+	item [2]:
+		class = "IntervalTier"
+		name = "Word"
+		xmin = 0.000000
+		xmax = 1.340000
+		intervals: size = 5
+			intervals [1]:
+				xmin = 0.000000
+				xmax = 0.290000
+				text = "WASN'T"
+			intervals [2]:
+				xmin = 0.290000
+				xmax = 0.320000
+				text = "A"
+			intervals [3]:
+				xmin = 0.320000
+				xmax = 0.760000
+				text = "SCHOOLTEACHER"
+			intervals [4]:
+				xmin = 0.760000
+				xmax = 0.970000
+				text = "SHE"
+			intervals [5]:
+				xmin = 0.970000
+				xmax = 1.340000
+				text = "BECAME"

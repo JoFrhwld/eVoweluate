@@ -1,0 +1,108 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.000000
+xmax = 2.347000
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "Phone"
+		xmin = 0.000000
+		xmax = 2.347000
+		intervals: size = 17
+			intervals [1]:
+				xmin = 0.000000
+				xmax = 1.011000
+				text = "sp"
+			intervals [2]:
+				xmin = 1.011000
+				xmax = 1.080000
+				text = "sp"
+			intervals [3]:
+				xmin = 1.080000
+				xmax = 1.130000
+				text = "F"
+			intervals [4]:
+				xmin = 1.130000
+				xmax = 1.210000
+				text = "UH1"
+			intervals [5]:
+				xmin = 1.210000
+				xmax = 1.250000
+				text = "T"
+			intervals [6]:
+				xmin = 1.250000
+				xmax = 1.300000
+				text = "B"
+			intervals [7]:
+				xmin = 1.300000
+				xmax = 1.390000
+				text = "AO2"
+			intervals [8]:
+				xmin = 1.390000
+				xmax = 1.479000
+				text = "L"
+			intervals [9]:
+				xmin = 1.479000
+				xmax = 1.569000
+				text = "Z"
+			intervals [10]:
+				xmin = 1.569000
+				xmax = 1.659000
+				text = "AA1"
+			intervals [11]:
+				xmin = 1.659000
+				xmax = 1.749000
+				text = "N"
+			intervals [12]:
+				xmin = 1.749000
+				xmax = 2.008000
+				text = "S"
+			intervals [13]:
+				xmin = 2.008000
+				xmax = 2.178000
+				text = "AE1"
+			intervals [14]:
+				xmin = 2.178000
+				xmax = 2.228000
+				text = "T"
+			intervals [15]:
+				xmin = 2.228000
+				xmax = 2.288000
+				text = "ER0"
+			intervals [16]:
+				xmin = 2.288000
+				xmax = 2.318000
+				text = "D"
+			intervals [17]:
+				xmin = 2.318000
+				xmax = 2.347000
+				text = "IY0"
+	item [2]:
+		class = "IntervalTier"
+		name = "Word"
+		xmin = 0.000000
+		xmax = 2.347000
+		intervals: size = 5
+			intervals [1]:
+				xmin = 0.000000
+				xmax = 1.011000
+				text = "sp"
+			intervals [2]:
+				xmin = 1.011000
+				xmax = 1.080000
+				text = "sp"
+			intervals [3]:
+				xmin = 1.080000
+				xmax = 1.569000
+				text = "FOOTBALL'S"
+			intervals [4]:
+				xmin = 1.569000
+				xmax = 1.749000
+				text = "ON"
+			intervals [5]:
+				xmin = 1.749000
+				xmax = 2.347000
+				text = "SATURDAY"

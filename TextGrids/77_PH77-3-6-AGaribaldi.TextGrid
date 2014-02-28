@@ -1,0 +1,88 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.000000
+xmax = 0.861000
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "Phone"
+		xmin = 0.000000
+		xmax = 0.861000
+		intervals: size = 12
+			intervals [1]:
+				xmin = 0.000000
+				xmax = 0.121000
+				text = "AW1"
+			intervals [2]:
+				xmin = 0.121000
+				xmax = 0.160000
+				text = "T"
+			intervals [3]:
+				xmin = 0.160000
+				xmax = 0.260000
+				text = "AH0"
+			intervals [4]:
+				xmin = 0.260000
+				xmax = 0.341000
+				text = "HH"
+			intervals [5]:
+				xmin = 0.341000
+				xmax = 0.391000
+				text = "EH1"
+			intervals [6]:
+				xmin = 0.391000
+				xmax = 0.491000
+				text = "D"
+			intervals [7]:
+				xmin = 0.491000
+				xmax = 0.571000
+				text = "L"
+			intervals [8]:
+				xmin = 0.571000
+				xmax = 0.601000
+				text = "AY2"
+			intervals [9]:
+				xmin = 0.601000
+				xmax = 0.700000
+				text = "T"
+			intervals [10]:
+				xmin = 0.700000
+				xmax = 0.730000
+				text = "AA1"
+			intervals [11]:
+				xmin = 0.730000
+				xmax = 0.801000
+				text = "N"
+			intervals [12]:
+				xmin = 0.801000
+				xmax = 0.861000
+				text = "AH0"
+	item [2]:
+		class = "IntervalTier"
+		name = "Word"
+		xmin = 0.000000
+		xmax = 0.861000
+		intervals: size = 5
+			intervals [1]:
+				xmin = 0.000000
+				xmax = 0.160000
+				text = "OUT"
+			intervals [2]:
+				xmin = 0.160000
+				xmax = 0.260000
+				text = "A"
+			intervals [3]:
+				xmin = 0.260000
+				xmax = 0.700000
+				text = "HEADLIGHT"
+			intervals [4]:
+				xmin = 0.700000
+				xmax = 0.801000
+				text = "ON"
+			intervals [5]:
+				xmin = 0.801000
+				xmax = 0.861000
+				text = "A"

@@ -1,0 +1,84 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.000000
+xmax = 1.158000
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "Phone"
+		xmin = 0.000000
+		xmax = 1.158000
+		intervals: size = 11
+			intervals [1]:
+				xmin = 0.000000
+				xmax = 0.439000
+				text = "sp"
+			intervals [2]:
+				xmin = 0.439000
+				xmax = 0.468000
+				text = "DH"
+			intervals [3]:
+				xmin = 0.468000
+				xmax = 0.499000
+				text = "AH0"
+			intervals [4]:
+				xmin = 0.499000
+				xmax = 0.619000
+				text = "W"
+			intervals [5]:
+				xmin = 0.619000
+				xmax = 0.749000
+				text = "AY1"
+			intervals [6]:
+				xmin = 0.749000
+				xmax = 0.789000
+				text = "V"
+			intervals [7]:
+				xmin = 0.789000
+				xmax = 0.879000
+				text = "Z"
+			intervals [8]:
+				xmin = 0.879000
+				xmax = 0.919000
+				text = "AH0"
+			intervals [9]:
+				xmin = 0.919000
+				xmax = 0.989000
+				text = "V"
+			intervals [10]:
+				xmin = 0.989000
+				xmax = 1.038000
+				text = "DH"
+			intervals [11]:
+				xmin = 1.038000
+				xmax = 1.158000
+				text = "AH1"
+	item [2]:
+		class = "IntervalTier"
+		name = "Word"
+		xmin = 0.000000
+		xmax = 1.158000
+		intervals: size = 5
+			intervals [1]:
+				xmin = 0.000000
+				xmax = 0.439000
+				text = "sp"
+			intervals [2]:
+				xmin = 0.439000
+				xmax = 0.499000
+				text = "THE"
+			intervals [3]:
+				xmin = 0.499000
+				xmax = 0.879000
+				text = "WIVES"
+			intervals [4]:
+				xmin = 0.879000
+				xmax = 0.989000
+				text = "OF"
+			intervals [5]:
+				xmin = 0.989000
+				xmax = 1.158000
+				text = "THE"
