@@ -1,0 +1,133 @@
+---
+layout: main
+title: eVoweluate
+---
+
+
+  <section id ="intro">
+    <p>
+      The <b>eVoweluate</b> survey is a research project focusing on the reliability and reproducibility of manual vowel measurements.
+      Its goals are twofold.
+      <ol>
+        <li>
+          Quantitatively evaluate the quality of automated vowel analysis, specifically that produced by the <a href="http://fave.ling.upenn.edu/">FAVE suite</a>.
+        </li>
+        <li>
+          Determine the rate of inter-annotator agreement amongst experts studying vowels.
+        </li>
+      </ol>
+    </p>
+  </section>
+
+  <section id = "participation">
+    <h2>Participation</h2>
+    <p>
+      We are hoping to recruit participants with experience doing formant analysis of vowels. In order to participate, you will need to use <a href ="http://www.fon.hum.uva.nl/praat/">Praat</a>. 
+    </p>
+
+    <p>
+      You can begin participating simply downloading the eVoweluate package, a compressed zip file. This file contains
+    </p>
+      <ul>
+        <li>
+          A README file, providing more information about running the survey.
+        </li>
+        <li>
+          Directories containing wav files, which are snippets of sociolinguistic interviews extracted from the <a href = "http://fave.ling.upenn.edu/pnc.html">Philadelphia Neighborhood Corpus</a>, and Praat TextGrids.
+        </li>
+        <li>
+          An emtpy directory called Results, which will store the results of the survey.
+        </li>
+        <li>
+          A Praat script called eVoweluate.Praat, which will run the actual experiment.
+        </li>
+        <li>
+          A simple tab-delimited text file listing the survey items which is utilized by eVoweluate.Praat.
+        </li>
+      </ul>
+    <p>
+      Upon completing the survey, you should compress the Results directory into a zip file, and e-mail it to Josef Fruehwald at <script language="JavaScript">
+    <!-- 
+
+    var email = "eVoweluate"; var emailHost = "gmail.com"
+    document.write("<a href=" + "mai" + "lto:" +email +
+    "&#64;" + emailHost+ ">" + "<b"+">"+ email + "&#64;" + emailHost + "</"+"b>"+"</a>")
+
+    //-->
+    </script>.
+      No information about your participation or your survey responses will be recorded until you submit the compressed Results file.
+      We maintain no record of how many times eVoweluate has been downloaded, and this webpage has no web analytics installed.
+      The consent form can be accessed by running the eVoweluate Praat script.
+    </p>
+  </section>
+  <section id = "download">
+    <div class = "box" style="text-align:center;font-size:20pt;margin:5px;">
+      <a href = "#"><b>Download eVoweluate</b></a>
+    </div>
+  </section>
+    <section id = "goals">
+    <h2>Goals</h2>
+    <p>
+      The <a href = "http://fave.ling.upenn.edu/">FAVE (Forced Alignment and Vowel Extraction) suite</a> has increased the volume of vowel measurement data linguists can extract, and does so in a <em>replicable</em> way. 
+      The quality of the data FAVE returns appears qualitatively to be high. 
+      The goal of this study is to quantify that quality.
+    </p>
+    <p>
+      We need to utilize a survey based method to quantify FAVE's quality. 
+      One of the motivations for developing FAVE in the first place is that manual formant analysis is time consuming simply due to the number of decisions a researcher must make with every token, including
+    </p>
+    <ul>
+      <li>
+        the time point within the vowel at which to make a measurement,
+      </li>
+      <li>
+        adjustments to the LPC algorithm in order to account for noise, including
+      </li>
+      <ul>
+        <li>
+          the desired frequency range of the analysis,
+        </li>
+        <li>
+          the number of poles.
+        </li>
+      </ul>
+    </ul>
+    <p>
+      In many cases, these decisions must be revised from token to token. 
+      The consequence is that the formant estimates for any given vowel token may vary from coder to coder depending on the decisions they made for at least these three parameters. 
+      Thus, there is no "ground truth" or "gold standard" against which to compare FAVE output. 
+      Instead, FAVE will be compared against the collective measurements of experts.
+    </p>
+    <p>
+      Moreover, in order to demonstrate the usefulness of FAVE, we need only establish that it agrees as closely with experts as experts agree with each other.
+      This introduces the second goal of the study, determining the rate of agreement on vowel formant estimation between experts.
+      It is currently unknown how high or low the rate of agreement between experts is, and not only will determining it be crucial for evaluating FAVE, but may be crucial for comparing results from different researchers, or research groups.
+    </p>
+  </section>
+
+  <section id = "moreinfo">
+  <div class = "box">
+    <h2>More Info</h2>
+    <ul>
+      <li> Josef Fruehwald: 
+          <ul>
+                <li>Contact: 
+<script language="JavaScript">
+  <!-- 
+
+  var email = "josef.frueh"; var emailHost = "ed.ac.uk"
+  document.write("<a href=" + "mai" + "lto:" +email +
+  "&#64;" + emailHost+ ">" + "<b"+">"+ email + "&#64;" + emailHost + "</"+"b>"+"</a>")
+
+  //-->
+</script></li>
+
+            <li><a href = "http://jofrhwld.github.io">Academic Website</a> </li>
+          </ul>
+      </li>
+      <li> FAVE - Force Alignment and Vowel Extraction: <a href = "http://fave.ling.upenn.edu">Website</a></li>
+      <li> <a href = "https://github.com/JoFrhwld/FAVE">FAVE toolkit on Github</a> </li>
+      <li> <a href = "https://groups.google.com/forum/#!forum/fave-users">FAVE Users' Group</a> </li>
+    </ul>
+  </section>
+  </divl>
