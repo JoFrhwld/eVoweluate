@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+ <html>
+ 	{% include head %}
+	<body class="oneColElsCtr">
+		<div id="container">
+			<div id = "mainContent">
+				{{ if page.title}}
+					<h1>{{page.title}}</h1>
+				{{ endif }}
+				{{ content }}
+			</div>
+		</div>
+	</body>
+	{% if site.analytics %}
+		{% include analytics %}
+	{% endif %}
+ </html>
